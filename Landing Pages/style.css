@@ -204,4 +204,7 @@ hr{
     .shoe-white h3, .shoe-white p, .shoe-white{
         text-align: right;
     }
+    .Footer_aboutsection{
+        width: 100%;
+    }
 }
